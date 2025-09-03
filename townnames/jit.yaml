@@ -1,0 +1,55 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Jit
+    probability: 1
+  - name: Weed
+    probability: 1
+  - name: Blunt
+    probability: 1
+  - name: Narkan
+    probability: 1
+  - name: Dark and
+    probability: 1
+- names:
+  - name: Piss
+    probability: 1
+  - name: Smoke
+    probability: 1
+  - name: Stormy
+    probability: 1
+  - name: Normy
+    probability: 1
+  - name: Merloe
+    probability: 1
+  - name: Snei
+    probability: 1
+  - name: Tard
+    probability: 1
+- names:
+  - name: '@newset-0'
+    probability: 1
+  - name: ' '
+    probability: 9
+name: Jit
+source: null
+subsets:
+- name: newset-0
+  parts:
+  - names:
+    - name: 'Deathcult '
+      probability: 1
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
+  - names: []
